@@ -170,7 +170,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>CaseForward</apexClass>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>CasePriority</apexClass>
